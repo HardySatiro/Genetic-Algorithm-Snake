@@ -1,0 +1,16 @@
+# Ignore
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+/bests
+/model_best
+/resources
+/model
+
+# Custom folders
+/temp
+/notebook/data
+/notebook/old
+/apidoc/

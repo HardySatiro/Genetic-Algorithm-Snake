@@ -1,0 +1,9 @@
+pygame~=2.0
+tensorflow-gpu==2.3
+google-colab==1.0.0
+scipy==1.4.1
+Pillow==8.1.2
+six==1.12.0
+matplotlib==3.3.4
+opencv-python==4.5.1.48
+tqdm==4.61.0
